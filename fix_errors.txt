@@ -16,3 +16,4 @@ APP_KEY archivo .env
 Se pierde la key cuando se descarga como zip el proyecto
 el proyecto debe clonarse si o si
 
+https://parzibyte.me/blog/2017/05/29/hacer-despues-clonar-proyecto-laravel/
