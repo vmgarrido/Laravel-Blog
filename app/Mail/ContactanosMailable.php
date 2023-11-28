@@ -15,7 +15,7 @@ class ContactanosMailable extends Mailable
 
     public $subject = 'Informacion de contacto';
 
-    public $contacto = "Esta es la info de cointacto";
+    public $contacto = "Esta es la info de contacto";
 
     /**
      * Create a new message instance.
